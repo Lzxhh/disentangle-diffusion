@@ -1,4 +1,4 @@
- # Unsupervised Region-Based Image Editing of Denoising Diffusion Models
+# Unsupervised Region-Based Image Editing of Denoising Diffusion Models
 
 <div align=center>
 <img width="750" alt="1723450312316" src='assets/final_image.png'
