@@ -8,7 +8,7 @@
 
 >  ❗️❗️❗️ **News:**
 > 
-> ✨:1. **Accepted by AAAI 2025 **: Our research paper has been accepted by AAAI2025. And latest paper is released at https://arxiv.org/abs/2412.12912 We propose a method to identify semantic attributes in the latent space of pre-trained diffusion models without any further training.
+> ✨:1. **Accepted by AAAI 2025**: Our research paper has been accepted by AAAI2025. And latest paper is released at https://arxiv.org/abs/2412.12912 We propose a method to identify semantic attributes in the latent space of pre-trained diffusion models without any further training.
 
 ## ⏳ Quick Start
 
