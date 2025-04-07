@@ -3,7 +3,7 @@
 # Unsupervised Region-Based Image Editing of Denoising Diffusion Models
 
 <div align=center>
-<img width="350" alt="1723450312316" src="https://github.com/user-attachments/assets/44461f22-304a-45d1-804b-197a6c2fa154">  
+<img width="350" alt="1723450312316" src='assets/final_image.png'
 </div>
 
 >  ❗️❗️❗️ **News:**
